@@ -1,0 +1,8 @@
+KODE     JENIS          JUDUL                            TAHUN  STATUS       
+------------------------------------------------------------------------------
+MJ-002   Majalah        Info Teknologi Edisi 87          2026   Dipinjam     
+BK-001   BukuCetak      Java How to Program              2022   Dipinjam     
+BD-002   BerkasDigital  Jurnal Rekayasa Perangkat        2025   Layak pinjam 
+BD-001   BerkasDigital  Panduan Pemrograman Java         2024   Dipinjam     
+BK-002   BukuCetak      Basis Data Relasional            2021   Tidak layak  
+MJ-001   Majalah        Info Teknologi Edisi 88          2026   Tidak layak  
